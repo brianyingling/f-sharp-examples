@@ -42,3 +42,7 @@ C:\Users\brian_000\documents\visual studio 2013\Projects\FSharpMVCExample\FSharp
 C:\Users\brian_000\documents\visual studio 2013\Projects\FSharpMVCExample\FSharpMVCExample\FSharpMVCExampleWebApi\obj\Debug\FSharpMVCExampleWebApi.csprojResolveAssemblyReference.cache
 C:\Users\brian_000\documents\visual studio 2013\Projects\FSharpMVCExample\FSharpMVCExample\FSharpMVCExampleWebApi\obj\Debug\FSharpMVCExampleWebApi.dll
 C:\Users\brian_000\documents\visual studio 2013\Projects\FSharpMVCExample\FSharpMVCExample\FSharpMVCExampleWebApi\obj\Debug\FSharpMVCExampleWebApi.pdb
+C:\Users\brian_000\documents\visual studio 2013\Projects\FSharpMVCExample\FSharpMVCExample\FSharpMVCExampleWebApi\bin\EntityFramework.SqlServer.dll
+C:\Users\brian_000\documents\visual studio 2013\Projects\FSharpMVCExample\FSharpMVCExample\FSharpMVCExampleWebApi\bin\EntityFramework.SqlServer.xml
+C:\Users\brian_000\documents\visual studio 2013\Projects\FSharpMVCExample\FSharpMVCExample\FSharpMVCExampleWebApi\bin\Devtalk.EF.CodeFirst.dll
+C:\Users\brian_000\documents\visual studio 2013\Projects\FSharpMVCExample\FSharpMVCExample\FSharpMVCExampleWebApi\bin\WebActivator.dll
